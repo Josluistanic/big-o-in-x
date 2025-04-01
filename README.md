@@ -8,6 +8,12 @@ Edited by
 
 [Nick West](https://github.com/njwest)
 
+<div align="left">
+    <a href="./README.es.md">
+	<img alt="Static Badge" src="https://img.shields.io/badge/README-es_MX-green">
+    </a>
+</div>
+
 
 ## What are algorithms?
 
@@ -621,3 +627,8 @@ http://www.daveperrett.com/articles/2010/12/07/comp-sci-101-big-o-notation/
 
 Pop Quiz:
 http://stackoverflow.com/questions/9223351/confused-on-big-o-notation?rq=1
+
+
+## Translators
+
+Spanish translation by [José Luis Tanicuchí](https://github.com/josluistanic)
